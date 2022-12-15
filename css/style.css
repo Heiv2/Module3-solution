@@ -1,0 +1,53 @@
+.navbar{
+background-color: gray;
+
+}
+.navbar-collapse{
+    background-color: white;
+    margin:9px -12px -8px -12px;
+}
+button{
+    width: 45px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.navbar-toggler-icon{
+    width: 20px;
+    height: 20px;
+    text-align:center;
+}
+
+.navbar-brand h1{
+    
+    color:black;
+    font-weight: bold;
+    
+}
+
+.navbar-brand a{
+    text-decoration: none;
+}
+.navbar-nav a{
+    text-align: center;
+}
+.navbar-nav .nav-link{
+    background-color: white;
+    border-bottom: 2px solid black;
+}
+.textblock{
+    background-color: gray;
+    overflow: hidden;
+    border: 2px solid black;
+    padding:10px;
+    margin-bottom: 10px;
+    
+    
+}
+
+
+section.title{
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 5px;
+}
